@@ -24,3 +24,7 @@ console.log(howSum(7, [2,4]))
 console.log(howSum(8, [2,3,5]))
 console.log(howSum(300, [7,14]))
 console.log(howSum(248, [134,3,33,56]))
+
+// Complexity:
+// O(n * m ^ 2) Time          ....... Where n is length of the array
+// O(m ^ 2) Space             ....... Where m is targetValue
